@@ -10,6 +10,9 @@ namespace MyFirstGitHubProgram
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("This is my first GitHub Program.");
+
+            Console.ReadKey();
         }
     }
 }
